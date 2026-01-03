@@ -1,7 +1,7 @@
 # 🧪 Data Serialization Lab
 ## JSON vs XML vs Protocol Buffers (Protobuf)
 
-This project is a **hands-on Node.js laboratory** created to explore and compare three widely used data serialization formats:
+This project is a **hands-on Node laboratory** created to explore and compare three widely used data serialization formats:
 
 - **JSON**
 - **XML**
@@ -25,7 +25,7 @@ The main goal is to understand how these formats work in practice and to observe
 
 Before running the project, make sure you have:
 
-- **Node.js** (version 14 or higher recommended)
+- **Node** (version 14 or higher recommended)
 - **npm** (Node Package Manager)
 
 ---
@@ -40,7 +40,7 @@ npm install
 
 ###################
 .
-├── index.js          # Main script: data creation, serialization, performance tests
+├── index          # Main script: data creation, serialization, performance tests
 ├── employee.proto    # Protobuf schema definition
 ├── data.json         # Generated JSON output
 ├── data.xml          # Generated XML output
