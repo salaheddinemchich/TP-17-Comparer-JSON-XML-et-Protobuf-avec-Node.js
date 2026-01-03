@@ -49,3 +49,4 @@ npm install
 
 
 # resultt
+![unnamed](https://github.com/user-attachments/assets/c6089429-0a99-41e4-bd3f-2eb4502817d2)
